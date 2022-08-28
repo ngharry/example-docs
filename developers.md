@@ -6,7 +6,7 @@ next: ./troubleshooting
 canonicalUrl: https://docs.strapi.io/developer-docs/latest/getting-started/quick-start.html
 ---
 
-# Quick Start Guide
+# Apios internal documentation
 
 <style lang="scss" scoped>
 
